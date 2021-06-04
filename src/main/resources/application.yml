@@ -1,0 +1,7 @@
+server:
+  port: 9111
+spring:
+  application:
+    name: customer-app
+user:
+  url: http://localhost:9112/user/1
