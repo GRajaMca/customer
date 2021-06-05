@@ -32,7 +32,7 @@ kind: ConfigMap
 metadata:
   name: customer-config
 data:
-  user_url: "http://localhost:9112/user/1"
+  user_url: "http://user:8112/user/1"
 ---
 apiVersion: v1
 kind: Service

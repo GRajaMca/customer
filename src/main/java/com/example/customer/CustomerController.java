@@ -50,6 +50,8 @@ class Customer {
 
 @Data
 @Builder
+@NoArgsConstructor
+@AllArgsConstructor
 class User {
     private String name;
     private Long id;
