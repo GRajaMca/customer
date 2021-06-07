@@ -46,4 +46,3 @@ spec:
     - protocol: TCP
       port: 8111
       targetPort: customer
-  type: LoadBalancer
